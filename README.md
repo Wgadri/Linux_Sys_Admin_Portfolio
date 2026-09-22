@@ -89,12 +89,10 @@ The following topics will be added as I continue expanding this portfolio:
 - Log management
 - Service management with systemd
 - Firewall configuration
-- Storage management with LVM
-- RAID configuration
 - Server hardening
 - Web server administration (Apache and Nginx)
 
 ---
 
-## Author 
+## Author
 **Gadri Wisdom**
