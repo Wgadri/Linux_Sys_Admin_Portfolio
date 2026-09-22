@@ -42,41 +42,41 @@ The goal of this project is to strengthen my practical Linux system administrati
 ```text
 linux-admin-lab/
 ├── README.md
-├── 01-linux-basics/
-├── 02-user-permission-management/
-├── 03-file-permissions/
-├── 04-process-management/
-├── 05-package-management/
-├── 06-system-monitoring/
-├── 07-linux-networking/
-├── 08-disk-storage-management/
-├── 09-user-security-management/
-├── 10-shell-scripting/
-├── 11-cron-jobs-automation/
-├── 12-backup-and-restore/
-├── 13-service-management/
-├── 14-ssh-remote-administration/
-├── 15-log-management-troubleshooting/
-├── 16-system-performance-monitoring/
-├── 17-linux-firewall-management/
-├── 18-linux-security-auditing/
-├── 19-linux-networking/
-├── 20-ssh-remote-administration/
-├── 21-linux-processes-system-monitoring/
-├── 22-systemd-services/
-├── 23-linux-logs-troubleshooting/
-├── 24-bash-scripting/
-├── 25-task-automation/
-├── 26-linux-firewall/
-├── 27-web-server-administration/
-├── 28-dns-administration/
-├── 29-file-network-services/
-├── 30-backup-recovery/
-├── 31-linux-security-hardening/
-├── 32-virtualization/
-├── 33-containers/
-├── 34-monitoring/
-└── 35-server-administration-project/
+├── 01_Linux_Basics/
+├── 02-File-Permission/
+├── 03-User-permissions/
+├── 04-Process-management/
+├── 05-Package-management/
+├── 06-System-monitoring/
+├── 07-Linux-networking/
+├── 08-Disk-storage-management/
+├── 09-User-security-management/
+├── 10-Shell-scripting/
+├── 11-Cron-jobs-automation/
+├── 12-Backup-and-restore/
+├── 13-Service-management/
+├── 14-Ssh-remote-administration/
+├──15-Log-management-troubleshooting/
+├──16-System-performance-monitoring/
+├── 17-Linux-firewall-management/
+├── 18-Linux-security-auditing/
+├── 19-Linux-networking/
+├── 20-Ssh-remote-administration/
+├── 21-Linux-processes-system-monitoring/
+├── 22-Systemd-services/
+├── 23-Linux-logs-troubleshooting/
+├── 24-Bash-scripting/
+├── 25-Task-automation/
+├── 26-Linux-firewall/
+├── 27-Web-server-administration/
+├── 28-Dns-administration/
+├── 29-File-network-services/
+├── 30-Backup-recovery/
+├── 31-Linux-security-hardening/
+├── 32-Virtualization/
+├── 33-Containers/
+├── 34-Monitoring/
+└── 35-Server-administration-project/
 ```
 
 ## Future Improvements
