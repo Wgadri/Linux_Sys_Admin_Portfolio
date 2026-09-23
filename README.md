@@ -48,37 +48,27 @@ linux-admin-lab/
 ├── 02-File-Permission/
 ├── 03-User-permissions/
 ├── 04-Process-management/
-├── 05-Package-management/
-├── 06-System-monitoring/
-├── 07-Linux-networking/
-├── 08-Disk-storage-management/
-├── 09-User-security-management/
-├── 10-Shell-scripting/
-├── 11-Cron-jobs-automation/
-├── 12-Backup-and-restore/
-├── 13-Service-management/
-├── 14-Ssh-remote-administration/
-├──15-Log-management-troubleshooting/
-├──16-System-performance-monitoring/
-├── 17-Linux-firewall-management/
-├── 18-Linux-security-auditing/
-├── 19-Linux-networking/
-├── 20-Ssh-remote-administration/
-├── 21-Linux-processes-system-monitoring/
-├── 22-Systemd-services/
-├── 23-Linux-logs-troubleshooting/
-├── 24-Bash-scripting/
-├── 25-Task-automation/
-├── 26-Linux-firewall/
-├── 27-Web-server-administration/
-├── 28-Dns-administration/
-├── 29-File-network-services/
-├── 30-Backup-recovery/
-├── 31-Linux-security-hardening/
-├── 32-Virtualization/
-├── 33-Containers/
-├── 34-Monitoring/
-└── 35-Server-administration-project/
+├── 05-File_Management/
+|__06_File_Contents_And_Filters/
+|__07_Package-management/
+├── 08-System-monitoring/
+├── 09-Linux-networking/
+├── 10-Disk-storage-management/
+├── 11-User-security-management/
+├── 12-Shell-scripting/
+├── 13-Cron-jobs-automation/
+├── 14-Backup-and-restore/
+├── 15-Service-management/
+├── 16-Ssh-remote-administration/
+├──17-Log-management-troubleshooting/
+├──18-System-performance-monitoring/
+├── 19-Linux-firewall-management/
+├── 20-Linux-security-auditing/
+├── 21-Linux-networking/
+├── 22-Ssh-remote-administration/
+├── 23-Linux-processes-system-monitoring/
+|_____________
+
 ```
 
 ## Future Improvements
