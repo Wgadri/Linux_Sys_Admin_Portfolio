@@ -52,3 +52,15 @@ I navigated to `/` and reviewed the main system directories used in Linux.
 A path that begins with `/` starts from the root of the filesystem.
 A path that does not begin with `/` is relative to the current working directory.
 
+### Screenshot
+![Checking current Directory && Listing Directories and Files](Screenshots/Directory_List1.png)
+
+![Listing Directories and Files](Screenshots/Directory_List2.png)
+
+![Listing Directories and files](Screenshots/Directory_List3.png)
+
+![Navigating, creating and deleting Directories - Relative Path ](Screenshots/Directory_Navigation.png)
+
+![Navigating Directories - Absolute Path](Screenshots/Directory_Navigation2.png)
+
+![Tree](Screenshots/Tree.png)

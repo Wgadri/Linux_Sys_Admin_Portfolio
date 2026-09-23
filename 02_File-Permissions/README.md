@@ -40,3 +40,5 @@ The files were assigned the following permission values:
 -  → 640
 
 These commands were used to practice how permissions can be adjusted for the owner, group, and other users.
+
+### Screenshot

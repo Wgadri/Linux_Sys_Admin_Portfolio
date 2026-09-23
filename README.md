@@ -17,24 +17,26 @@ The goal of this project is to strengthen my practical Linux system administrati
 | 01  | Linux Basics                              | Completed |
 | 02  | User & Permission Management              | Completed |
 | 03  | File Permissions                          | Completed |
-| 04  | Process Management                        | Coming soon |
-| 05  | Package Management                        | Coming soon |
-| 06  | System Monitoring                         | Coming soon|
-| 07  | Linux Networking                          | Coming soon |
-| 08  | Disk & Storage Management                 | Coming soon|
-| 09  | User Management & Security Administration | Coming soon |
-| 10  | Shell Scripting                           | Coming soon |
-| 11  | Cron Jobs & Automation                    | Coming soon |
-| 12  | Backup & Restore                          | Coming soon|
-| 13  | Service Management                        | Coming soon |
-| 14  | SSH & Remote Administration               | Coming soon|
-| 15  | Log Management & Troubleshooting          | Coming soon |
-| 16  | System Performance Monitoring             | Coming soon|
-| 17  | Linux Firewall Management                 | Coming soon|
-| 18  | Linux Security Auditing                   | Coming soon|
-| 19  | Linux-Networking                          | Coming soon|
-| 20  | SSH & Remote Administration               | Coming soon|
-| 21  | Linux Processes System Monitoring         | Coming soon |
+| 04  | Process Management                        | Completed |
+| 05  | File Management                           | Completed |
+| 06  | File Contents and Filters                 | Completed |
+| 07  | Package Management                        | Coming soon|
+| 08  | System Monitoring                         | Coming soon|
+| 09  | Linux Networking                          | Coming soon |
+| 10  | Disk & Storage Management                 | Coming soon|
+| 11  | User Management & Security Administration | Coming soon |
+| 12  | Shell Scripting                           | Coming soon |
+| 13  | Cron Jobs & Automation                    | Coming soon |
+| 14  | Backup & Restore                          | Coming soon|
+| 15  | Service Management                        | Coming soon |
+| 16  | SSH & Remote Administration               | Coming soon|
+| 17  | Log Management & Troubleshooting          | Coming soon |
+| 18  | System Performance Monitoring             | Coming soon|
+| 19  | Linux Firewall Management                 | Coming soon|
+| 20  | Linux Security Auditing                   | Coming soon|
+| 21  | Linux-Networking                          | Coming soon|
+| 22  | SSH & Remote Administration               | Coming soon|
+| 23  | Linux Processes System Monitoring         | Coming soon |
 
 
 ## Repository Structure
