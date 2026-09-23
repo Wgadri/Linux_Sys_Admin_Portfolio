@@ -18,7 +18,7 @@ This goal of this lab is to learn how to determine, create and manage files in L
 | rm -i   | Deletes a file with interactive confirmation              |
 | rm -rf  | Delete an non-empty directory by force                    |
 | cp      | Copy a file and directories                              |
-| cp -i   | Copying a file with interactive confirmation to prevent overwriting                                                          |
+| cp -i   | Copying a file with interactive confirmation to prevent overwriting |
 | mv     | Rename a file or move the file to another directory       |
 | mv -i  | Interactive confirmation to overwrite an existing file    |
 
