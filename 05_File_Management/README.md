@@ -51,7 +51,7 @@ To delete a file :
 ### To delete a file with confirmation
 To delete a file with an interactive confirmation to prevent accidental file removal :
 ``` bash
-  rm -i file12.txt
+  rm -i fileChamp.txt
 ```
 
 ### To delete a directory by force
@@ -63,14 +63,13 @@ To delete a non-empty directory by force :
 ### To copy  file
 To duplicate an existing file and directory:
 ``` bash
-  cp fileChamp.txt fileFun.txt
-  cp test1
+  cp file1.txt fileFun.txt
 ```
 
 ### To copy file with interactive confirmation
 Copying a file with interactive confirmation to prevent overwriting existing files :
 ``` bash
-  cp -i fileChamp.txt fileChamp12.txt
+  cp -i file1.txt fileChamp12.txt
 ```
 
 ### To rename a file
@@ -82,7 +81,7 @@ Renaming a file or moving the file to another directory :
 ### To rename a file with interactive confirmation
 Renaming a file with interactive confirmation to ask permission to overwrite an existing file:
 ``` bash
-  mv -i myFile22.txt funFact3.txt
+  mv -i myfile2.txt funFact3.txt
 ```
 
 ### ScreenShot

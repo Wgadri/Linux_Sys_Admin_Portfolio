@@ -7,7 +7,7 @@ This goal of this lab is to learn how to determine, create and manage files in L
 - Operating System: Ubuntu Linux
 - Version Control: Git and GitHub
 
-## Commands 
+## Commands
 
 | Command   |             Description                      |
 |-----------|----------------------------------------------|
@@ -40,26 +40,26 @@ To display the contents in a file:
 ### Displaying first ten contents in a file
 To display the first ten contents in a file:
 ```bash
-   head file12.txt
+   head myfile12.txt
 ```
 
 ### Displaying last ten contents in a file
 To display the last ten contents in a file:
 ```bash
-   tail file12.txt
+   tail myfile12.txt
 ```
 
 ### Displaying contents in a file in a descending order
 To display the contents of a file in a descending order:
 ```bash
-   tac file12.txt
+   tac myfile12.txt
 ```
 
 ### Displaying contents in a file page by page
 To display contents in a file  page by page:
 ```bash
-   more file12.txt
-   less file12.txt
+   more myfile12.txt
+   less myfile12.txt
 ```
 
 ### Displaying from the stdin and stdout in a file
@@ -71,19 +71,19 @@ To display the standard input on the standard output and displaying it or puttin
 ### Filtering  contents in a file
 To display the filtered contents in a file using a string:
 ```bash
-   cat file12.txt | grep boy
+   cat file12.txt | grep the
 ```
 
 ### Filtering  contents in a file
 To display the filtered contents in a file using a string with case in-sensitivity:
 ```bash
-    grep -i boy file12.txt
+    grep -i the file12.txt
 ```
 
 ### Filtering  contents in a file
 To display the filtered contents in a file not matching the preferred string:
 ```bash
-    grep -v boy file12.txt
+    grep -v the file12.txt
 ```
 
 ### Notes
